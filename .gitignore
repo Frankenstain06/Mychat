@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Dependencies
+node_modules/
+venv/
+.venv/
+
+# Build outputs
+dist/
+build/
+*.pyc
+__pycache__/
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
