@@ -6,3 +6,5 @@ Alembic
 argon2-cffi
 PyJWT
 cryptography
+pydantic[email]
+python-dotenv
